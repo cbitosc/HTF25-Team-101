@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f3f4f6;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+button {
+  margin-left: 5px;
+  padding: 5px 10px;
+}
+input {
+  padding: 5px;
+  margin-right: 5px;
+}
